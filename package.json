@@ -1,0 +1,25 @@
+{
+  "name": "2019313858-stat",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aizathamizuddin/2019313858-stat.git"
+  },
+  "bin": {
+    "stat": "main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aizathamizuddin/2019313858-stat/issues"
+  },
+  "homepage": "https://github.com/aizathamizuddin/2019313858-stat#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
